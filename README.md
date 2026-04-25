@@ -1,7 +1,6 @@
 # Instagram-account-creator-
  UPDATED 
 
-  
 - PROXY SUPPORT
 - MULTI THREAD
 - MOBILE/WEB/IOS API
